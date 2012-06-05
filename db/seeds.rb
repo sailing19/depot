@@ -14,10 +14,10 @@ Product.create(title: 'Programming Ruby 1.9',
         out there. If you need to get working programs delivered fast, 
         you should add Ruby to your toolbox.</p>},
     image_url: 'ruby.jpg',
-    price: 49.95    
+    price: 49.00    
     )
     
-    Product.create(title: 'Programming Ruby 1.9', 
+    Product.create(title: 'CoffeScript', 
       description: 
         %{<p>
             Ruby is the fastest growing and most exciting dynamic language 
@@ -27,7 +27,7 @@ Product.create(title: 'Programming Ruby 1.9',
         price: 49.95    
         )
         
-        Product.create(title: 'Programming Ruby 1.9', 
+        Product.create(title: 'Rails', 
           description: 
             %{<p>
                 Ruby is the fastest growing and most exciting dynamic language 
